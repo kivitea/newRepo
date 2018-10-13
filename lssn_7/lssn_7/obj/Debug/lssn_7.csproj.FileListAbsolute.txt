@@ -1,0 +1,12 @@
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\bin\Debug\lssn_7.exe.config
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\bin\Debug\lssn_7.exe
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\bin\Debug\lssn_7.pdb
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.csprojAssemblyReference.cache
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.Form1.resources
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.Properties.Resources.resources
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.csproj.GenerateResource.cache
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.csproj.CoreCompileInputs.cache
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.exe
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.pdb
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.Form_Dubler.resources
+D:\Обучение\C#_уровень_1\lssn_7\lssn_7\obj\Debug\lssn_7.Form_GuessNum.resources
