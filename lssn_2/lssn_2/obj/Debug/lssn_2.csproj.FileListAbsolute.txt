@@ -1,0 +1,9 @@
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\bin\Debug\lssn_2.exe.config
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\bin\Debug\lssn_2.exe
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\bin\Debug\lssn_2.pdb
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\obj\Debug\lssn_2.csprojAssemblyReference.cache
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\obj\Debug\lssn_2.Properties.Resources.resources
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\obj\Debug\lssn_2.csproj.GenerateResource.cache
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\obj\Debug\lssn_2.csproj.CoreCompileInputs.cache
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\obj\Debug\lssn_2.exe
+D:\Обучение\C#_уровень_2\lssn_2\lssn_2\obj\Debug\lssn_2.pdb
